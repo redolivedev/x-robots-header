@@ -22,4 +22,5 @@ Adds the necessary headers to prevent search engines from indexing your site
 == Changelog ==
 
 = 1.0 =
+
 * Initial release
